@@ -1,5 +1,3 @@
-# js_request_validator
-Javascript JSON Request Validator
 var sample = {
   name:{
     required:true,
